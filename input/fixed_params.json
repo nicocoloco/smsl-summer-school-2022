@@ -1,0 +1,15 @@
+{
+  "infection_rate": [],
+  "recovery_rate": [],
+  "death_rate": [],
+
+  "average_incubation_period": 5,
+  "average_infectious_period": 11.5,
+
+  "wearing_mask": 1,
+  "wearing_mask_protection": 0.65,
+  "physical_distancing": 0.6,
+  "physical_distancing_protection": 0.9,
+
+  "agent_movement_range": 10
+}
